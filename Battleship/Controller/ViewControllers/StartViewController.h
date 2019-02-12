@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  StartViewController.h
 //  Battleship
 //
 //  Created by doxper on 26/01/19.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface StartViewController : UIViewController
 
 @end
-
